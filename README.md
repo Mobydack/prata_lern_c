@@ -1,1 +1,1 @@
-# prata_lern_c
+# Lern C
