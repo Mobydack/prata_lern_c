@@ -27,4 +27,3 @@ void ic()
 {
   printf("India, China");
 }
-
